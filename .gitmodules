@@ -1,9 +1,9 @@
 [submodule "ffmpeg"]
 	path = ffmpeg
-	url = git://git.videolan.org/ffmpeg.git
+	url = https://git.ffmpeg.org/ffmpeg.git
 [submodule "x264"]
 	path = x264
-	url = git://git.videolan.org/x264.git
+	url = https://git.videolan.org/git/x264.git
 [submodule "freetype2"]
 	path = freetype2
 	url = git://git.sv.gnu.org/freetype/freetype2.git
